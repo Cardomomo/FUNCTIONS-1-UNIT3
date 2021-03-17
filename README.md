@@ -142,7 +142,7 @@ DATA 1A.
 
 
 
-# F1-4 PALINDROMO OR NOT
+# F1-4 PALINDROMIC OR NOT
 
     #include <stdio.h>
     #include <string.h>
